@@ -1,2 +1,3 @@
-if __name__ == "__main__":
-    app.run()
+from Bat import app
+
+app.run(debug=True)
